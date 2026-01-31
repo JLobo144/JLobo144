@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Junior Lobo
+# 🖥️ Junior Lobo
 
 **`Desenvolvedor FullStack`**
 
